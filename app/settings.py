@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 import os
 import dj_database_url
 import django_heroku
-
+import psycopg2
 
 
 from pathlib import Path
